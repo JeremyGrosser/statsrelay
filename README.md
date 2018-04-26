@@ -3,13 +3,17 @@
 Statsrelay is a consistent-hashing relay for statsd and carbon metrics.
 
 [![Build Status](https://travis-ci.org/statsrelay/statsrelay.svg?branch=master)](https://travis-ci.org/statsrelay/statsrelay)
-[![Coverity Status](https://scan.coverity.com/projects/2789/badge.svg)](https://scan.coverity.com/projects/2789)  
+[![Coverity Status](https://scan.coverity.com/projects/2789/badge.svg)](https://scan.coverity.com/projects/2789) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FJeremyGrosser%2Fstatsrelay.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FJeremyGrosser%2Fstatsrelay?ref=badge_shield)
+ 
 [Mailing List](https://groups.google.com/forum/#!forum/statsrelay-dev)
 
 ## License
 MIT License  
 Copyright (c) 2016 Uber Technologies, Inc.
 Copyright (c) 2017 Legitimate Data Company, LLC
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FJeremyGrosser%2Fstatsrelay.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FJeremyGrosser%2Fstatsrelay?ref=badge_large)
 
 ## Build
 
